@@ -1,1 +1,1 @@
-##Tarea: Reglas y modelo
+Tarea: Reglas y modelo
